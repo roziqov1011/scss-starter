@@ -1,0 +1,22 @@
+body{
+    background-color: red;
+    color: white;
+    .title{
+        background-color: rgb(220, 0, 147);
+    }
+}
+
+ul{
+    background-color: $blue;
+}
+button{
+    @include btn;
+}
+p{
+    margin-top: 20px;
+    background-color: $blue;
+}
+.test{
+    color: white;
+}
+

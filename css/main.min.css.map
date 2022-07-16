@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "ACCA,AAAA,CAAC,AAAA,CACG,MAAM,CAAE,CAAC,CACT,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,UAAU,CACzB,AACD,AAAA,IAAI,AAAA,CACA,WAAW,CAAE,UAAU,CACvB,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,MAAM,CACzB,AACD,AAAA,UAAU,AAAA,CACN,KAAK,CAAE,MAAM,CACb,MAAM,CAAE,MAAM,CACd,MAAM,CAAE,cAAc,CACzB,AIfD,AAAA,IAAI,AAAA,CACA,gBAAgB,CAAE,GAAG,CACrB,KAAK,CAAE,KAAK,CAIf,AAND,AAGI,IAHA,CAGA,MAAM,AAAA,CACF,gBAAgB,CAAE,OAAgB,CACrC,AAGL,AAAA,EAAE,AAAA,CACE,gBAAgB,CHTb,OAAO,CGUb,AACD,AAAA,MAAM,AAAA,CFVF,UAAU,CAAE,IAAI,CAChB,gBAAgB,CDFb,OAAO,CCGV,OAAO,CAAE,QAAQ,CACjB,KAAK,CAAE,OAAc,CACrB,aAAa,CAAE,GAAG,CAClB,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,GAAG,CAAC,KAAK,CAAC,OAAc,CEMnC,AACD,AAAA,CAAC,AAAA,CACG,UAAU,CAAE,IAAI,CAChB,gBAAgB,CHhBb,OAAO,CGiBb,AACD,AAAA,KAAK,AAAA,CACD,KAAK,CAAE,KAAK,CACf",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_general.scss",
+        "../scss/_variables.scss",
+        "../scss/_mixin.scss",
+        "../scss/blocks/_blocks.scss",
+        "../scss/blocks/_header.scss",
+        "../scss/blocks/_hero.scss",
+        "../scss/blocks/_services.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}

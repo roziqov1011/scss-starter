@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "ACCA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACzB;;AACD,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,UAAU;EACvB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;CACzB;;AACD,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,MAAM;EACd,MAAM,EAAE,cAAc;CACzB;;AIfD,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,GAAG;EACrB,KAAK,EAAE,KAAK;CAIf;;AAND,AAGI,IAHA,CAGA,MAAM,CAAA;EACF,gBAAgB,EAAE,OAAgB;CACrC;;AAGL,AAAA,EAAE,CAAA;EACE,gBAAgB,EHTb,OAAO;CGUb;;AACD,AAAA,MAAM,CAAA;EFVF,UAAU,EAAE,IAAI;EAChB,gBAAgB,EDFb,OAAO;ECGV,OAAO,EAAE,QAAQ;EACjB,KAAK,EAAE,OAAc;EACrB,aAAa,EAAE,GAAG;EAClB,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,GAAG,CAAC,KAAK,CAAC,OAAc;CEMnC;;AACD,AAAA,CAAC,CAAA;EACG,UAAU,EAAE,IAAI;EAChB,gBAAgB,EHhBb,OAAO;CGiBb;;AACD,AAAA,KAAK,CAAA;EACD,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_general.scss",
+        "../scss/_variables.scss",
+        "../scss/_mixin.scss",
+        "../scss/blocks/_blocks.scss",
+        "../scss/blocks/_header.scss",
+        "../scss/blocks/_hero.scss",
+        "../scss/blocks/_services.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
